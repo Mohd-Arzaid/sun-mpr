@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.font-inter {
+  font-family: "Inter", sans-serif;
+}
+
+.font-syncopate {
+  font-family: "Syncopate", sans-serif;
+}
