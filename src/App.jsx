@@ -2,8 +2,10 @@ import Navbar from "./common/navbar";
 import AuthorizedIndianRepresentative from "./components/authorized-indian-representative";
 import BISCertification from "./components/bis-certification";
 import BISCertificationOverview from "./components/bis-certification-overview";
+import BISCertificationVideo from "./components/bis-certification-video";
 import BISMarking from "./components/bis-marking";
 import BISRegistrationProcedure from "./components/bis-registration-procedure";
+import ClientTestimonials from "./components/client-testimonials";
 import ContactUs from "./components/contact-us";
 import Hero from "./components/hero";
 import MPRServices from "./components/mpr-services";
@@ -22,6 +24,9 @@ function App() {
       <MPRServices />
       <ContactUs />
       <BISCertificationOverview />
+      <BISCertificationVideo />
+      <ClientTestimonials />
+      
     </>
   );
 }
