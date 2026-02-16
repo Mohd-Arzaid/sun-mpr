@@ -1,3 +1,4 @@
+import Footer from "./common/footer";
 import Navbar from "./common/navbar";
 import AuthorizedIndianRepresentative from "./components/authorized-indian-representative";
 import BISCertification from "./components/bis-certification";
@@ -28,7 +29,7 @@ function App() {
       <BISCertificationFAQ />
       <BISCertificationVideo />
       <ClientTestimonials />
-
+      <Footer/>
     </>
   );
 }
