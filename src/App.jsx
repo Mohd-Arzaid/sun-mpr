@@ -1,6 +1,7 @@
 import Navbar from "./common/navbar";
 import AuthorizedIndianRepresentative from "./components/authorized-indian-representative";
 import BISCertification from "./components/bis-certification";
+import BISCertificationFAQ from "./components/bis-certification-faq";
 import BISCertificationOverview from "./components/bis-certification-overview";
 import BISCertificationVideo from "./components/bis-certification-video";
 import BISMarking from "./components/bis-marking";
@@ -24,9 +25,10 @@ function App() {
       <MPRServices />
       <ContactUs />
       <BISCertificationOverview />
+      <BISCertificationFAQ />
       <BISCertificationVideo />
       <ClientTestimonials />
-      
+
     </>
   );
 }

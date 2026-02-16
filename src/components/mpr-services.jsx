@@ -19,7 +19,7 @@ const MPRServices = () => {
         </div>
 
         <div className="flex flex-col gap-1">
-          <div className="flex items-center  gap-8 w-full border border-neutral-300 bg-neutral-200 px-8 py-4">
+          <div className="flex items-center  gap-8 w-full border border-neutral-300 bg-neutral-100 px-8 py-4">
             <img
               src="/personal-consultant.png"
               alt="Personal Consultant"
@@ -31,7 +31,7 @@ const MPRServices = () => {
             </div>
           </div>
 
-          <div className="flex items-center  gap-8 w-full border border-neutral-300 bg-neutral-200 px-8 py-4">
+          <div className="flex items-center  gap-8 w-full border border-neutral-300 bg-neutral-100 px-8 py-4">
             <img
               src="/personal-consultant.png"
               alt="Personal Consultant"
@@ -43,7 +43,7 @@ const MPRServices = () => {
             </div>
           </div>
 
-          <div className="flex items-center  gap-8 w-full border border-neutral-300 bg-neutral-200 px-8 py-4">
+          <div className="flex items-center  gap-8 w-full border border-neutral-300 bg-neutral-100 px-8 py-4">
             <img
               src="/personal-consultant.png"
               alt="Personal Consultant"
@@ -54,7 +54,7 @@ const MPRServices = () => {
             </div>
           </div>
 
-          <div className="flex items-center  gap-8 w-full border border-neutral-300 bg-neutral-200 px-8 py-4">
+          <div className="flex items-center  gap-8 w-full border border-neutral-300 bg-neutral-100 px-8 py-4">
             <img
               src="/personal-consultant.png"
               alt="Personal Consultant"
@@ -66,7 +66,7 @@ const MPRServices = () => {
             </div>
           </div>
 
-          <div className="flex items-center  gap-8 w-full border border-neutral-300 bg-neutral-200 px-8 py-4">
+          <div className="flex items-center  gap-8 w-full border border-neutral-300 bg-neutral-100 px-8 py-4">
             <img
               src="/personal-consultant.png"
               alt="Personal Consultant"
@@ -78,7 +78,7 @@ const MPRServices = () => {
             </div>
           </div>
 
-          <div className="flex items-center  gap-8 w-full border border-neutral-300 bg-neutral-200 px-8 py-4">
+          <div className="flex items-center  gap-8 w-full border border-neutral-300 bg-neutral-100 px-8 py-4">
             <img
               src="/personal-consultant.png"
               alt="Personal Consultant"
@@ -89,7 +89,7 @@ const MPRServices = () => {
             </div>
           </div>
 
-          <div className="flex items-center  gap-8 w-full border border-neutral-300 bg-neutral-200 px-8 py-4">
+          <div className="flex items-center  gap-8 w-full border border-neutral-300 bg-neutral-100 px-8 py-4">
             <img
               src="/personal-consultant.png"
               alt="Personal Consultant"
@@ -101,7 +101,7 @@ const MPRServices = () => {
             </div>
           </div>
 
-          <div className="flex items-center  gap-8 w-full border border-neutral-300 bg-neutral-200 px-8 py-4">
+          <div className="flex items-center  gap-8 w-full border border-neutral-300 bg-neutral-100 px-8 py-4">
             <img
               src="/personal-consultant.png"
               alt="Personal Consultant"
