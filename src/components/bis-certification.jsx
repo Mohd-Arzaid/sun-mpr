@@ -10,7 +10,7 @@ const BISCertification = () => {
       <div className="flex gap-16 items-center justify-center mt-12">
         <img src="/bis-logo.png" alt="BIS Logo" />
         <div className="flex flex-col gap-4">
-          <div className="font-inter text-sm text-neutral-600 font-medium">
+          <div className="font-inter text-normal text-neutral-500 font-medium">
             For export to India, manufacturers need BIS certification (ISI) or
             BIS registration (CRS) for certain products. The BIS Certification
             is obligatory for a large variety of products, so that they can be
@@ -19,7 +19,7 @@ const BISCertification = () => {
             ensure the quality, safety and reliability of products in accordance
             with Indian Standards (IS).
           </div>
-          <div className="font-inter text-sm text-neutral-600">
+          <div className="font-inter text-normal text-neutral-500">
             The Bureau of Indian Standards (BIS) is the national certification
             body in India under the umbrella of the Indian Ministry of Consumer
             Affairs, Food & Public Distribution. On April 1, 1987, it
@@ -36,7 +36,7 @@ const BISCertification = () => {
         </div>
       </div>
 
-      <div className="font-inter text-neutral-600 text-lg font-medium mt-5">
+      <div className="font-inter text-neutral-500 text-lg font-medium mt-5">
         There are two main types of certifications regarding BIS compliance for
         India:
       </div>
@@ -55,7 +55,7 @@ const BISCertification = () => {
               BIS ISI Certification (BIS Scheme I, ISI-Mark Scheme)
             </div>
 
-            <div className="font-inter text-neutral-600 text-sm">
+            <div className="font-inter text-neutral-500 text-normal">
               The Foreign Manufacturers Certification Department (FMCD) issues
               the BIS ISI certification for foreign manufacturers. Since 2000
               this authority has been responsible for the BIS certificate under
@@ -64,7 +64,7 @@ const BISCertification = () => {
               Certification Scheme (FMCS).
             </div>
 
-            <div className="font-inter text-neutral-600 text-sm ">
+            <div className="font-inter text-neutral-500 text-normal ">
               All products that comply with the FMCS regulations are marked with
               the ISI logo, also known as the “BIS Standard Mark” or “ISI Mark”
               in accordance with ISI Mark Scheme I.
@@ -85,7 +85,7 @@ const BISCertification = () => {
               BIS CRS Certification (BIS Scheme II, BIS Registration){" "}
             </div>
 
-            <div className="font-inter text-neutral-600 text-sm">
+            <div className="font-inter text-neutral-500 text-normal">
               The BIS registration under CRS (Compulsory Registration Scheme)
               was introduced in 2012 for 15 product categories. Since then, new
               products have been added in phases. Based on the regulations
@@ -94,7 +94,7 @@ const BISCertification = () => {
               also obtain BIS registration.
             </div>
 
-            <div className="font-inter text-neutral-600 text-sm">
+            <div className="font-inter text-neutral-500 text-normal">
               The BIS-CRS registration mainly covers products in the IT,
               electronics and lighting categories, however the list of products
               subject to registration is constantly being expanded. This makes
@@ -110,7 +110,7 @@ const BISCertification = () => {
           BIS Certification under Scheme X (as of 2026)
         </h3>
         <div className="flex flex-col gap-4">
-          <p className="font-inter text-neutral-600 text-sm leading-relaxed">
+          <p className="font-inter text-neutral-500 text-normal leading-relaxed">
             BIS Scheme X was envisioned as a certification framework in the
             context of India&apos;s Machinery and Electrical Equipment Safety
             (Omnibus Technical Regulation, OTR) and aimed to introduce a
@@ -123,12 +123,12 @@ const BISCertification = () => {
             may be notified...&quot;), meaning there was ultimately no fixed
             implementation/enforcement date anymore.
           </p>
-          <p className="font-inter text-neutral-600 text-sm leading-relaxed">
+          <p className="font-inter text-neutral-500 text-normal leading-relaxed">
             On 14 January 2026, it was announced that BIS Scheme X is no longer
             required. As a result, any content referring to the mandatory
             implementation of Scheme X is no longer up to date.
           </p>
-          <p className="font-inter text-neutral-600 text-sm leading-relaxed">
+          <p className="font-inter text-neutral-500 text-normal leading-relaxed">
             Important: Regardless of the fact that Scheme X is no longer
             required, individual spare parts, components, or product variants
             may still fall under other BIS obligations (e.g., Scheme I or Scheme

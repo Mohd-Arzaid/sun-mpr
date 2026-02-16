@@ -18,7 +18,7 @@ const Navbar = () => {
               alt="World Icon"
               className="size-8 object-contain"
             />
-            <div className="text-sm font-inter text-neutral-800">
+            <div className="text-normal font-inter text-neutral-800">
               Choose Language
             </div>
             <img
@@ -77,7 +77,7 @@ const CompanyLogo = () => {
         <div className="font-inter text-neutral-900 font-semibold text-xl uppercase">
           Sun Certifications India
         </div>
-        <div className="font-inter text-neutral-600 font-medium -mt-0.5 tracking-tight text-sm uppercase">
+        <div className="font-inter text-neutral-500 font-medium -mt-0.5 tracking-tight text-normal uppercase">
           Simplifying Certifications
         </div>
       </div>
