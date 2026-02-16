@@ -2,11 +2,9 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <div className="relative">
-      <img src="/hero-image.png" alt="Hero Image" />
-
-      <div className="absolute inset-0 flex items-center max-w-[1232px] px-4 mx-auto">
-        <div className=" text-white text-4xl max-w-3xl font-syncopate">
+    <div className="max-w-[1232px] mx-auto px-4">
+      <div className="bg-[url('/hero-image.png')] bg-cover bg-center py-20">
+        <div className="text-white text-4xl max-w-4xl font-syncopate px-8 py-8">
           your one-stop certification{" "}
           <span className="font-bold">solution!</span>
         </div>
